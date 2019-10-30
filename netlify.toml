@@ -1,4 +1,0 @@
-[build]
-  base    = "noose-client"
-  publish = "noose-client/public"
-  command = "yarn build"
